@@ -5,5 +5,8 @@ REGISTRATION PAGE
 
 LOGIN PAGE
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/d20da76a-750c-4d9b-91fa-83e09bf01093">
+
 HOME PAGE
+
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/ce90e31d-f09a-4f80-b33d-d1a5ae107500">
